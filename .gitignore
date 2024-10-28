@@ -1,0 +1,12 @@
+
+*.ipch
+*.iobj
+*.command
+*.obj
+*.vsidx
+*.db
+.vs/SimpleGameForReversePractice/v17/.suo
+*.tlog
+*.log
+*.ipdb
+*.recipe
